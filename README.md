@@ -1,2 +1,3 @@
-# my_command_line_tool
-Python script that creates my command line tool using click
+## My Command Line Tool
+
+This project contains a python script which uses click to create a command line tool. The tool emcrypts the inputted password
